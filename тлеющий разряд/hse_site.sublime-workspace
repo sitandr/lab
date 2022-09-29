@@ -1,0 +1,532 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"render"
+			],
+			[
+				"m",
+				"markdown"
+			],
+			[
+				"ma",
+				"markdown"
+			],
+			[
+				"Studenr",
+				"StudentUser"
+			],
+			[
+				"EmailU",
+				"EmailUser"
+			],
+			[
+				"E",
+				"EmailUser"
+			],
+			[
+				"announ",
+				"Announcement"
+			],
+			[
+				"on_",
+				"on_delete="
+			],
+			[
+				"on",
+				"on_delete="
+			],
+			[
+				"inher",
+				"InheritanceManager"
+			],
+			[
+				"l",
+				"list_display"
+			],
+			[
+				"us",
+				"EmailUser"
+			],
+			[
+				"co",
+				"concretize"
+			],
+			[
+				"Email",
+				"EmailUser"
+			],
+			[
+				"defa",
+				"default_role"
+			],
+			[
+				"S",
+				"STUD_ROLE"
+			],
+			[
+				"lec",
+				"LECT_ROLE"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/andr/Desktop/Лаба/Гироскоп_/â¿α«ß¬«»_/src.md",
+			"settings":
+			{
+				"buffer_size": 13584,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "/C/Tools/pandoc-sitandr-build/defaults.yaml",
+			"settings":
+			{
+				"buffer_size": 809,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Tools/pandoc-sitandr-build/figures-insert-filter.py",
+			"settings":
+			{
+				"buffer_size": 1613,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"markdownpre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"markd",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"markdo",
+				"MarkdownLivePreview: Open Preview"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"im",
+				"MarkdownImages: Show All Images"
+			],
+			[
+				"ima",
+				"MarkdownImages: Show All Images"
+			],
+			[
+				"markdowni",
+				"MarkdownImages: Show All Images"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"remk",
+				"Package Control: Remove Package"
+			],
+			[
+				"com",
+				"Compare with..."
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packagere",
+				"PackageResourceViewer: Open Resource"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/andr/Desktop/Лаба/lab/тлеющий разряд/f.tex",
+		"/C/Tools/pandoc-sitandr-build/table-replace-filter.py",
+		"/C/Users/andr/Desktop/Лаба/lab/тлеющий разряд/ws.sublime-project",
+		"/C/Users/andr/Desktop/Лаба/lab/тлеющий разряд/low.csv",
+		"/C/Users/andr/Desktop/Лаба/lab/тлеющий разряд/break.csv",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/README.md",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/media/profiles/Figure_1.png",
+		"/C/Users/andr/Desktop/Лаба/lab/тлеющий разряд/PV3(13.05).txt",
+		"/C/Users/andr/Desktop/Лаба/lab/тлеющий разряд/PV.txt",
+		"/C/Users/andr/Desktop/Лаба/lab/тлеющий разряд/random_points.csv",
+		"/C/Users/andr/Desktop/Лаба/lab/тлеющий разряд/2.csv",
+		"/C/Users/andr/Desktop/Лаба/lab/тлеющий разряд/1.csv",
+		"/C/Users/andr/Desktop/Лаба/lab/тлеющий разряд/PV2.txt",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/views/profile_view.py",
+		"/C/Users/andr/Desktop/Лаба/Ящик/src.md",
+		"/C/Tools/pandoc-sitandr-build/disable_float.tex",
+		"/C/Tools/pandoc-sitandr-build/default.latex",
+		"/C/Users/andr/Desktop/Лаба/вынужденные колебания/Om_table.csv",
+		"/C/Tools/pandoc-sitandr-build/defaults.yaml",
+		"/C/Users/andr/Desktop/Лаба/Проволока/src.md",
+		"/C/Users/andr/Desktop/Лаба/газовый разряд/PV.txt",
+		"/C/Users/andr/Desktop/Лаба/вынужденные колебания/src.md",
+		"/C/Users/andr/AppData/Roaming/Sublime Text/Packages/MarkdownImages/MarkdownImages.sublime-settings",
+		"/C/Users/andr/AppData/Roaming/Sublime Text/Packages/User/MarkdownImages.sublime-settings",
+		"/C/Users/andr/Desktop/Лаба/вынужденные колебания/curve_0.png",
+		"/C/Users/andr/Desktop/Лаба/Гироскоп_/â¿α«ß¬«»_/src.md",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/forms/ann_write_form.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/urls.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/templates/main/index.html",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/templates/main/announcements.html",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/views/announcement_view.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/forms/__init__.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/views/course_views.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/models/announcements.py",
+		"/C/Users/andr/Desktop/Лаба/вынужденные колебания/0Ω",
+		"/C/Users/andr/Desktop/Лаба/вынужденные колебания/30Ω",
+		"/C/Users/andr/Desktop/Лаба/вынужденные колебания/Om",
+		"/C/Users/andr/Desktop/Лаба/вынужденные колебания/zatuh",
+		"/C/Users/andr/Desktop/Лаба/вынужденные колебания/300Ω",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/models/user.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/models/profiles.py",
+		"/C/Users/andr/AppData/Roaming/Sublime Text/Packages/Anaconda/Anaconda.sublime-settings",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/models/models.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/models/__init__.py",
+		"/C/Users/andr/AppData/Roaming/Sublime Text/Packages/User/Anaconda.sublime-settings",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/views/__init__.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/templates/main/base.html",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/forms/forms.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/accounts/views.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/admin.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/.gitignore",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/apps.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/accounts/urls.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/taskmanager/settings.py",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/accounts/forms.py",
+		"/C/Users/andr/AppData/Roaming/Sublime Text/Packages/Anaconda/Default (Windows).sublime-keymap",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/requirements.txt",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/forms/user_info_forms.py",
+		"/C/Users/andr/AppData/Roaming/Sublime Text/Packages/Jedi - Python autocompletion/sublime_jedi.sublime-settings",
+		"/C/Users/andr/Desktop/Лаба/Проволока/dat/sects.txt",
+		"/C/Users/andr/Desktop/Лаба/Проволока/dat/bridge.txt",
+		"/C/Users/andr/Downloads/Telegram Desktop/У вечного огня",
+		"/C/Users/andr/Downloads/Telegram Desktop/Где-то там, на обочине жизни",
+		"/C/Users/andr/Desktop/Музыка/тексты/Небо.txt",
+		"/C/Users/andr/Desktop/Музыка/тексты/Деревья.txt",
+		"/C/Users/andr/Desktop/Лаба/Проволока/dat/scheme.txt",
+		"/C/Users/andr/Desktop/Лаба/graphix/tikzitstyles/simple.tikzstyles",
+		"/C/Users/andr/Desktop/Лаба/Ящик/dat/0.5(2).csv",
+		"/C/Users/andr/Desktop/Лаба/Ящик/dat/0.5V res2.csv",
+		"/C/Users/andr/Desktop/Лаба/Ящик/dat/0.2V res2.csv",
+		"/C/Users/andr/Desktop/Лаба/Ящик/dat/0.5V res.csv",
+		"/C/Users/andr/Desktop/Лаба/Проволока/dat/diameter.txt",
+		"/C/Users/andr/Desktop/Лаба/Проволока/WiFi.md",
+		"/C/Users/andr/Desktop/ДЗ/hse-physics-website/main/models/views/__init__.py",
+		"/C/Users/andr/Desktop/Лаба/Проволока/dat/ommeter.txt",
+		"/C/Users/andr/.ssh/id_rsa.pub",
+		"/C/Users/andr/Desktop/Лаба/Гироскоп_/â¿α«ß¬«»_/res_dat/src_csv_1.csv",
+		"/C/Users/andr/Desktop/Лаба/graphix/tikzitstyles/simple.tikzdefs",
+		"/C/Users/andr/Desktop/Лаба/Проволока/dat/voltmeter.txt",
+		"/C/Users/andr/Documents/T13 Outcomes Advansed — Sitnikov AT",
+		"/C/Users/andr/Desktop/Лаба/Проволока/form",
+		"/C/Users/andr/Downloads/Telegram Desktop/src 2.md",
+		"/C/Users/andr/Desktop/Лаба/Ящик/dat/FR_3.csv",
+		"/C/Users/andr/Desktop/Лаба/Ящик/dat/0.2V res.csv",
+		"/C/Users/andr/Desktop/Лаба/Проволока/dat/result.csv",
+		"/C/Users/andr/Desktop/Лаба/Проволока/dat/sects",
+		"/C/Users/andr/Desktop/Лаба/Проволока/dat/bridge/bridge.txt",
+		"/C/Users/andr/Desktop/Лаба/Ящик/src (4) (2).md",
+		"/C/Users/andr/Desktop/Лаба/Проволока/dat/voltmeter/voltmeter.txt",
+		"/C/Users/andr/Desktop/Лаба/Проволока/dat/scheme/scheme.txt",
+		"/C/Users/andr/Desktop/Лаба/Гироскоп_/â¿α«ß¬«»_/dat/src.csv",
+		"/C/Users/andr/Desktop/Лаба/Проволока/scheme.txt",
+		"/C/Users/andr/Desktop/Лаба/Проволока/diameter.txt",
+		"/C/Users/andr/Desktop/Лаба/Проволока/bridge.txt",
+		"/C/Games/RimWorld v1.3.3271 rev1372/Mods/BetterMiniMap/README.md",
+		"/C/Users/andr/Desktop/Лаба/Гироскоп_/src.md",
+		"/C/Users/andr/Desktop/ДЗ/x[1], np.diff(y)np.diff(x).py",
+		"/C/Users/andr/Desktop/Лаба/Гироскоп/src.md",
+		"/C/Users/andr/Desktop/Лаба/Гироскоп_ (5).zip",
+		"/C/Users/andr/AppData/Roaming/Sublime Text/Packages/Markdown/Markdown.sublime-syntax",
+		"/C/Users/andr/AppData/Roaming/Sublime Text/Packages/Markdown/MultiMarkdown.sublime-syntax",
+		"/C/Users/andr/AppData/Roaming/Sublime Text/Packages/Markdown/syntax_test_markdown.md",
+		"/C/Users/andr/AppData/Roaming/Sublime Text/Packages/Markdown/Indentation Rules.tmPreferences",
+		"/C/Users/andr/AppData/Roaming/Sublime Text/Packages/Markdown/Code Block Syntaxes.sublime-completions",
+		"/C/Users/andr/AppData/Roaming/Sublime Text/Packages/Markdown/Default.sublime-keymap",
+		"/C/Users/andr/AppData/Roaming/Sublime Text/Packages/Markdown.sublime-package",
+		"/C/Users/andr/Desktop/Лаба/Гироскоп/build.bat"
+	],
+	"find":
+	{
+		"height": 49.0
+	},
+	"find_in_files":
+	{
+		"height": 619.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/andr/Desktop/Лаба/Гироскоп_/â¿α«ß¬«»_/src.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13584,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9373,
+								9361
+							]
+						],
+						"settings":
+						{
+							"mde.match_heading_hashes": false,
+							"rainbow_checked": true,
+							"syntax": "Packages/MarkdownEditing/syntaxes/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7143.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Tools/pandoc-sitandr-build/defaults.yaml",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 809,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"rainbow_checked": true,
+							"syntax": "Packages/YAML/YAML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Tools/pandoc-sitandr-build/figures-insert-filter.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								722,
+								722
+							]
+						],
+						"settings":
+						{
+							"rainbow_checked": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 209.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hse_site.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 266.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
