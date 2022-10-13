@@ -17,15 +17,13 @@ date: \today
 
 $$
 (P{jar} - P{atm}) * \pi * r^2 = mg
-$$
-$$
 PV^x = const
 $$
  
 продифференцируем уравнение (2):
 
 $$
-\Delta P = frac{Px * \Delta P}{V^(x+1)}
+\Delta P = frac{x * const * \Delta V}{V^(x+1)} = frac{const}{V^x} * frac{x * \Delta V}{V} = frac{Px \DeltaV}{V}
 $$
 
 
