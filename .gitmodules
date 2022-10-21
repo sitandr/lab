@@ -1,3 +1,6 @@
 [submodule "gold rush/code/physlab"]
 	path = gold rush/code/physlab
 	url = git@github.com:sitandr/physlab.git
+[submodule "pain/physlab"]
+	path = pain/physlab
+	url = git@github.com:sitandr/physlab.git
