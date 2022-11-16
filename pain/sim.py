@@ -11,10 +11,10 @@ g = 9.8
 R = 8.31
 T_0 = 300
 
-Φ = 0.006 # моль/с #?
-α = 0.03 #?
-β_c = 2 #?
-β_v = 0
+Φ = 0.01 # моль/с #?
+α = 0.02 #?
+β_c = 0 #?
+β_v = 0 #?
 dt = 0.00001
 
 γ = 7/5
@@ -49,8 +49,10 @@ def count_cross(arr, c):
     arr_n = arr - c
     return ((arr_n[:-1] * arr_n[1:]) < 0).sum()
 
-print(count_cross(np.array(xs), 0)/(len(xs)*dt)/2)
-print((max(xs) - min(xs))/2*100) 
+print('ν:', count_cross(np.array(xs), 0)/(len(xs)*dt)/2)
+print('A:', (max(xs) - min(xs))/2*100) 
 
 plt.plot(np.arange(len(xs))*dt, np.array(xs)*100)
+plt.xlabel("Время, с")
+plt.ylabel("Координата, см")
 plt.show()
