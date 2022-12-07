@@ -126,40 +126,40 @@ $$
 ω = 2\pi ν\\
 \dot ω = \frac{dω}{dt} = 2\pi \frac{dω}{dt} = 2\pi \dot ν
 $$
-Подставим их в уравнения для $k$ и $k_t$
+Подставим их в выражения для $η$:
 $$
-η = \frac{mg ω r + Mω \dot ω + P(ω)}{UI} = \frac{2\pi mg ν r + 4\pi^2 M ω \dot ν + P(w)}{UI}\\
-k_t = \frac{Mw_2 e_2 + Mw_1 e_1}{UI} = 4\pi^2 \frac{Mj_2 u_2 + Mj_1 u_1}{UI}\\
-k = \frac{mg w_3 r + Mw_3 e_3}{UI} = {2\pi mg j_3 r + 4pi^2 M j_3 u_3}{UI}
+η_1 = \frac{mg ω r + Mω \dot ω + P(ω)}{UI} = \frac{2\pi mg ν r + 4\pi^2 M ω \dot ν + P(ν)}{UI}\\
+η_2 = \frac{Mω \dot ω + P(ω)}{UI} = 4\pi^2 \frac{Mν\dot ν + P(ν)}{UI}\\
+η_3 = \frac{mg ω r + P(ω)}{UI} = \frac{2\pi·mg ν r + P(ν)}{UI}
 $$
 
 ## Результаты
 
-![coords](img/coords.png)
+Ниже представлены графики последовательных измерений, 
 
-![speeds](img/speeds.png)
+![coords](img/coords.png){width=70%}
 
-![η](img/η.png)
+![speeds](img/speeds.png){width=70%}
 
-![η2](img/η2.png)
+![η](img/η.png){width=70%}
 
-![Крут_1](img/Крут_1.png)
+![η2](img/η2.png){width=70%}
 
-![Крут_2](img/Крут_2.png)
+![Крут_1](img/Крут_1.png){width=70%}
 
-![Крут_3](img/Крут_3.png)
+![Крут_2](img/Крут_2.png){width=70%}
 
-![Оборотень](img/Оборотень.png)
+![Крут_3](img/Крут_3.png){width=70%}
 
-![Падение](img/Падение.png)
+![Оборотень](img/Оборотень.png){width=70%}
+
+![Падение](img/Падение.png){width=70%}
 
 <!--↑Важно: здесь груз 50г (если верить моим записям) ↑-->
 
-![Тормоз](img/Тормоз.png)
+![Тормоз](img/Тормоз.png){width=70%}
 
-![η3](img/η3.png)
-
-
+![η3](img/η3.png){width=70%}
 
 ## Выводы
 
