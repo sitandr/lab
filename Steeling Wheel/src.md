@@ -86,21 +86,21 @@ $$
 
 	Усложнённая версия КПД (e_i угловое ускорение в i-том эксперименте)
 $$
-k = \frac{P}{UI} = \frac{mg}{UI} \frac{dh}{dt} + \frac{Mw}{UI} \frac{dw}{dt}= \frac{mgv + Mw e_3}{UI}
-v = wr
+k = \frac{P}{UI} = \frac{mg}{UI} \frac{dh}{dt} + \frac{Mw_3}{UI} \frac{dw_3}{dt}= \frac{mgv + Mw_3 e_3}{UI}
+v = w_3 r
 $$
 Из второго 
 $$
-k = \frac{Mw e_2}{UI}
+k = \frac{Mw_2 e_2}{UI}
 $$
 
 	Ни и наконец, если учитывать трение (для подсчёта КПД тепловой части двигателя (без учёта потерь эниергии из-за механических причин))
 
 $$
-k_t = \frac{P}{UI} = \frac{mg}{UI} \frac{dh}{dt} + \frac{Mw + P_тр}{UI} \frac{dw}{dt}= \frac{mgv + Mw e_3 + P_тр}{UI}
-v = wr
-k_t = \frac{Mw e_2 + P_тр}{UI}
-P_тр = Mw e_1
+k_t = \frac{P}{UI} = \frac{mg}{UI} \frac{dh}{dt} + \frac{Mw_3 + P_тр}{UI} \frac{dw_3}{dt}= \frac{mgv + Mw_3 e_3 + P_тр}{UI}
+v = w_3 r
+k_t = \frac{Mw_2 e_2 + P_тр}{UI}
+P_тр = Mw_1 e_1
 $$
 
 
