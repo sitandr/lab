@@ -14,7 +14,7 @@ date: \today
 
 ## Установка
 
-![Фото установки](img/basic_front.jpeg){width=80%}
+![Фото установки](img/basic_front.jpg){width=80%}
 
 В этой работе мы пользовались системой собранной из вакуумного насоса, измерителя давления, труб, клапанов, и шланга (длина — 10.2 метра, радиус — 1.22 см). В процессе измерения мы записывали видео, на котором были видны показания датчика. Обработка измерений производилась с помощью специальной программы, определявшей показания прибора с видео в каждый момент времени.
 
@@ -56,11 +56,95 @@ date: \today
 
 Дебаговый кадр для отладки распознавания:
 
-К сожалению, у такого подхода есть несколько неприятных моментов. В первую очередь, мы не можем уловить позицию точки (слишком маленький объект), то есть у нас будут проблемы с распознаваниям порядков $10^3 - 1$ mbar. Меньшие мы сможем распознать, так как сможем распознать множитель справа. 
+![test_frame](img/test_frame.png){width=40%}
+
+К сожалению, у такого подхода есть несколько неприятных моментов. В первую очередь, мы не можем уловить позицию точки (слишком маленький объект), то есть у нас будут проблемы с распознаваниям порядков $10^3 - 1$ mbar. Меньшие мы сможем распознать, так как сможем распознать множитель справа.
+
+Во-вторых, распознаватель основан на точном пространственном распределении пикселей, а не "образах", в отличие от нейронных сетей, поэтому он легко может выдать мусор из-за небольших изменений освещения, изменения ракурса и размытия. Нам удалось сделать такие ошибки незначительными по своему количеству, но они по-прежнему остаются. Работать с такими данными на порядок сложнее, чем с "нормальными" из-за большого количества выбросов.  
 
 ## Результаты
 
+![build_2_speed_small](img/build_2_speed_small.jpeg)
 
+![I](img/I.jpeg)
+
+![I_speed](img/I_speed.jpeg)
+
+![I_speed_small](img/I_speed_small.jpeg)
+
+![II](img/II.jpeg)
+
+![II_speed](img/II_speed.jpeg)
+
+![II_speed_small](img/II_speed_small.jpeg)
+
+![III_1](img/III_1.jpeg)
+
+![III_1_speed](img/III_1_speed.jpeg)
+
+![III_1_speed_small](img/III_1_speed_small.jpeg)
+
+![III_2](img/III_2.jpeg)
+
+![III_2_speed](img/III_2_speed.jpeg)
+
+![III_2_speed_small](img/III_2_speed_small.jpeg)
+
+![IMG_5567](img/IMG_5567.jpeg)
+
+![IMG_5567_speed](img/IMG_5567_speed.jpeg)
+
+![IMG_5567_speed_small](img/IMG_5567_speed_small.jpeg)
+
+![IMG_5568](img/IMG_5568.jpeg)
+
+![IMG_5568_speed](img/IMG_5568_speed.jpeg)
+
+![IMG_5568_speed_small](img/IMG_5568_speed_small.jpeg)
+
+![IMG_5569](img/IMG_5569.jpeg)
+
+![IMG_5569_speed](img/IMG_5569_speed.jpeg)
+
+![IMG_5569_speed_small](img/IMG_5569_speed_small.jpeg)
+
+![IMG_5570](img/IMG_5570.jpeg)
+
+![IMG_5570_speed](img/IMG_5570_speed.jpeg)
+
+![IMG_5570_speed_small](img/IMG_5570_speed_small.jpeg)
+
+![nothing](img/nothing.jpeg)
+
+![nothing_speed](img/nothing_speed.jpeg)
+
+![nothing_speed_small](img/nothing_speed_small.jpeg)
+
+![simple](img/simple.jpeg)
+
+![simple_speed](img/simple_speed.jpeg)
+
+![simple_speed_small](img/simple_speed_small.jpeg)
+
+![ZERO](img/ZERO.jpeg)
+
+![ZERO_speed](img/ZERO_speed.jpeg)
+
+![ZERO_speed_small](img/ZERO_speed_small.jpeg)
+
+![build_2](img/build_2.jpeg)
+
+![build_2_speed](img/build_2_speed.jpeg)
+
+![Figure 2 (4)](img/Figure 2 (4).png)
+
+![Figure 2 (5)](img/Figure 2 (5).png)
+
+![Figure 2 (1)](img/Figure 2 (1).png)
+
+![Figure 2 (2)](img/Figure 2 (2).png)
+
+![Figure 2 (3)](img/Figure 2 (3).png)
 
 ## Теория (возможно, но больше похоже на танцы со скрипкой)
 
