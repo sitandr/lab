@@ -1,16 +1,14 @@
-Right side
-Reversed (label to the eye)
-Zero
-259 20
+#Right side
+#Reversed (label to the eye)
 
-Right angle
-V1 247 41 # 5-th of weakness
+# Right angle
+V1 247 41# 5-th of weakness
 B1 246 42
-C1 245 13 # 2-nd weakest
+C1 245 13# 2-nd weakest
 G1 243 23
-Y1 242 34 # 4-th weakest
-O1 242 24 # 3 (pretty much the same as 4)
-R1 241 16  # most weak
+Y1 242 34# 4-th weakest
+O1 242 24# 3 (pretty much the same as 4)
+R1 241 16# most weak
 
 V2 235 24
 B2 233 26
@@ -19,15 +17,7 @@ G2 226 19
 Y2 224 10
 O2 224 00
 
-Left angle 
-
-V1 271 00
-B1 271 50
-C1 273 30
-G1 275 08
-Y2 276 03
-O2 276 06
-R2 277 30
+# Left angle 
 
 
 V2 283 05
@@ -36,4 +26,15 @@ C2 288 55
 G2 292 35
 Y2 294 45
 O2 294 57
+
+V1 271 00
+B1 271 50
+C1 273 30
+G1 275 08
+Y1 276 03
+O1 276 06
+R1 277 30
+
+#Zero
+Z0 259 20
 

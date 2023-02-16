@@ -1,7 +1,7 @@
-Right side
-point zero 
-259 08
-Left angle
+# Right side
+# point zero 
+Z0 259 08
+# Left angle
 R1 277 10
 O1 276 06
 Y1 275 52
@@ -10,7 +10,7 @@ C1 273 22
 B1 271 42
 V1 270 50
 
-R2 none
+R2
 O2 294 20
 Y2 293 58
 G2 291 40
@@ -18,19 +18,19 @@ C2 288 10
 B2 284 38
 V2 282 48
 
-Right angle
+# Right angle
 R1 241 03
-O1 242 20 
+O1 242 20
 Y1 242 29
-G1 243 20 
+G1 243 20
 C1 245 00
 B1 246 38
 V1 247 50
 
-R2 none
+R2
 O2 224 10
-Y2 NF
+Y2
 G2 225 56
-C2 NF
-B2 NF
+C2
+B2
 V2 233 15
