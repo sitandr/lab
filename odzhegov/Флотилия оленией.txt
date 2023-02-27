@@ -1,0 +1,4 @@
+25.4 мм
+monochrome 0.1 ms
+colour 1 ms
+CCS200
