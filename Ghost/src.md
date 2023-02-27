@@ -77,7 +77,9 @@ $$
 Тогда:
 $$
 \sin(\beta) = n(\sin (\alpha) \cos(\gamma) - \cos (\alpha) \sin(\gamma)) = \sin(\alpha)\sqrt{n^2 - \sin^2(\alpha/2 + \theta_{red}/2)} - cos(\alpha)\sin (\alpha/2 + \theta_{red}/2) \\
-\theta = - \alpha/2 + \theta_{red}/2 + \arcsin(\sin(\alpha)\sqrt{n^2 - \sin^2(\alpha/2 + \theta_{red}/2)} - cos(\alpha)\sin (\alpha/2 + \theta_{red}/2))
+\theta = - \alpha/2 + \theta_{red}/2 + \arcsin(\sin(\alpha)\sqrt{n^2 - \sin^2(\alpha/2 + \theta_{red}/2)} - cos(\alpha)\sin (\alpha/2 + \theta_{red}/2)) \\
+\sin(\theta + \alpha/2 - \theta_{red}/2)) + cos(\alpha)\sin (\alpha/2 + \theta_{red}/2) = \sin(\alpha)\sqrt{n^2 - \sin^2(\alpha/2 + \theta_{red}/2)} \\
+n^2 = (\frac{\sin(\theta + \alpha/2 - \theta_{red}/2)) + cos(\alpha)\sin (\alpha/2 + \theta_{red}/2)}{\sin(\alpha)})^2 + \sin^2(\alpha/2 + \theta_{red}/2)
 $$
 
 
