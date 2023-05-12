@@ -1,0 +1,3 @@
+no → 1.5mm bfp diameter
+100 → 4 mm (father edge), 2.6 → center
+200 → 6.5 mm (father edge), 5.8 → center
