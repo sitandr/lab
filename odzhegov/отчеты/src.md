@@ -634,7 +634,132 @@ $$
 
 ![blocked_vertical](../photo/9/blocked_vertical.bmp)
 
+## Лабораторная №10
 
+### Darkfield
+
+Здесь пришлось тщательно докалибровывать систему (которая, к сожалению, может незначительно сбиваться между работами), чтобы можно было поместить пластинку с *zero-order mask* (маска нулевого порядка) — прозрачная пластинка с небольшой точкой посередине, которая устанавливается на заднюю фокальную плоскостью и блокирует свет, который по преобразованию Фурье соответствует постоянной засветке. Соответственно, если правильно откалибровать установку, чтобы  "нулевые лучи" точно попадали на эту точку, то мы получим непрямое освещение (обсуждалось в лабораторной №4).
+
+![before_dark_image_48](../photo/10/before_dark_image_48.png)
+
+![after_dark_image_48](../photo/10/after_dark_image_48.png)
+
+
+
+![usaf_before](../photo/10/usaf_before.png)
+
+
+![usaf_after](../photo/10/usaf_after.png)
+
+
+
+![usaf_bmp_closed](../photo/10/usaf_bmp_closed.png)
+
+### Продолжение теории формирования формирования изображений Аббе
+
+
+
+![image-20230528155247904](../other_img/loosing.png)
+
+![image-20230528155304652](../other_img/loosing_blocking.png)
+
+![image-20230528155321715](../other_img/grid_lines.png)
+
+![image-20230528155414670](../../../../../AppData/Roaming/Typora/typora-user-images/image-20230528155414670.png)
+
+![image-20230528155432049](../other_img/sinusoidal.png)
+
+![0% контраста из-за того, что компоненты слишком далеко](../other_img/too_sinusoidal.png)
+
+![image-20230528155537166](../other_img/mft_1.png)
+
+![image-20230528155625381](../other_img/mft_dark.png)
+
+![image-20230528155739347](../other_img/mutliple_points.png)
+
+
+
+![image-20230528155753316](../other_img/diagonal_no_contrast.png)
+
+![image-20230528155834906](../other_img/horizontal_contrast.png)
+
+![image-20230528155937132](../other_img/out_of_axis_contrast.png)
+
+![image-20230528155953730](../other_img/double_res.png)
+
+![image-20230528160333043](../other_img/real_res.png)
+
+
+
+![image-20230528162703339](../../../../../AppData/Roaming/Typora/typora-user-images/image-20230528162703339.png)
+
+
+
+![image-20230528162713694](../../../../../AppData/Roaming/Typora/typora-user-images/image-20230528162713694.png)
+
+![image-20230528162729874](../other_img/incoherent_mft.png)
+
+![image-20230528162822735](../other_img/mft_aberr.png)
+
+
+
+![image-20230528162935411](../other_img/three_bars_spectra.png)
+
+### Измерения
+
+![190_lp](../photo/10/190_lp.png)
+
+![190_lp_2](../photo/10/190_lp_2.png)
+
+![190_lp_2_realigned](../photo/10/190_lp_2_realigned.png)
+
+![after_rotation_focal_48](../photo/10/after_rotation_focal_48.png)
+
+
+
+![before_rotation_focal_48](../photo/10/before_rotation_focal_48.bmp)
+
+![lines_200](../photo/10/lines_200.png)
+
+![lines_oscillation_200](../photo/10/lines_oscillation_200.png)
+
+![reference_black_edge_10](../photo/10/reference_black_edge_10.png)
+
+![7_lp_8](../photo/10/7_lp_8.png)
+
+![10_lp](../photo/10/10_lp.png)
+
+![10_lp_2](../photo/10/10_lp_2.png)
+
+![26](../photo/10/26.png)
+
+![26_50m](../photo/10/26_50m.png)
+
+![26_100m](../photo/10/26_100m.png)
+
+![26_150m](../photo/10/26_150m.png)
+
+![26_copy](../photo/10/26_copy.png)
+
+![30_lp](../photo/10/30_lp.png)
+
+![40_lp_2](../photo/10/40_lp_2.png)
+
+![70_lp](../photo/10/70_lp.png)
+
+![70_lp_2](../photo/10/70_lp_2.png)
+
+![70_lp_balldriver](../photo/10/70_lp_balldriver.png)
+
+![100_lp_2](../photo/10/100_lp_2.png)
+
+![130_lp](../photo/10/130_lp.png)
+
+![130_lp_2](../photo/10/130_lp_2.png)
+
+![160_lp](../photo/10/160_lp.png)
+
+![160_lp_2](../photo/10/160_lp_2.png)
 
 
 
@@ -646,7 +771,7 @@ $$
 
 [2] Optical Microscopy Course, Lab Notes — Neil A. Switz, Daniel A. Fletcher — 2020
 
-[3] Optical Microscopy Course,  Notes — Neil A. Switz, Daniel A. Fletcher — 2020
+[3] Optical Microscopy Course, Manual— Neil A. Switz, Daniel A. Fletcher — 2020
 
 # Благодарности
 
