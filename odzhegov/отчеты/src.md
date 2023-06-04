@@ -816,9 +816,9 @@ $$
 
 !SUBFIGURES:
 ![MFT для сдвига относительно фокуса](){width:0.3}
-![+50μm](../photo/10/graph_mft_square_50.png)
-![+100μm](../photo/10/graph_mft_square_100.png)
-![+150μm](../photo/10/graph_mft_square_150.png)
+![+50 микрометров](../photo/10/graph_mft_square_50.png)
+![+100 микрометров](../photo/10/graph_mft_square_100.png)
+![+150 микрометров](../photo/10/graph_mft_square_150.png)
 
 Видно, что наклон становится более крутым, площадь становится меньше. Соответственно, передается меньше важных частот, больше засветки, изображение размывается.
 
@@ -829,9 +829,9 @@ $$
 !SUBFIGURES:
 ![LSF, Line Spread Function](){width:0.3}
 ![В фокусе](../photo/10/graph_lsf_square.png)
-![+50 μm](../photo/10/graph_lsf_square_50.png)
-![+100 μm](../photo/10/graph_lsf_square_100.png)
-![+150 μm](../photo/10/graph_lsf_square_150.png)
+![+50 микрометров](../photo/10/graph_lsf_square_50.png)
+![+100 микрометров](../photo/10/graph_lsf_square_100.png)
+![+150 микрометров](../photo/10/graph_lsf_square_150.png)
 
 Здесь очень наглядно наблюдается "размытие" перехода.
 
