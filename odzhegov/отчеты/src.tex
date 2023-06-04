@@ -68,7 +68,6 @@
 \makeatletter
 \def\fps@figure{htbp}
 \makeatother
-\usepackage{soul}
 \setlength{\emergencystretch}{3em} % prevent overfull lines
 \providecommand{\tightlist}{%
   \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
@@ -1077,70 +1076,60 @@ Illumination)}\label{ux43fux440ux438ux43dux446ux438ux43f-ux440ux430ux431ux43eux4
 установки для корректной работы требовали \emph{очень} точной настройки.
 Мы потратили на эту работу больше, чем планировали.
 
+\hypertarget{ux445ux43eux434-ux440ux430ux431ux43eux442ux44b-2}{%
+\subsubsection{Ход
+работы}\label{ux445ux43eux434-ux440ux430ux431ux43eux442ux44b-2}}
+
+После сборки системы установим ирис объектива на 3 мм (больший размер,
+как мы дальше увидим, даст лучшее изображение, однако из-за того, что
+фитиль лампы по одному измерению сильно больше, чем в другом, одна из
+осей будет хуже различима, чем другая), апертуру конденсера --- примерно
+до размера изображения нити накаливания, апертуру у лампы ---~так, чтобы
+края подступали к изображению на камере, чтобы не было лишней световой
+засветки.
+
+\includegraphics[width=0.4\textwidth,height=\textheight]{../photo/4/21.png}
+\includegraphics[width=0.4\textwidth,height=\textheight]{../photo/4/23.png}
+
+Видно, что после добавления зеленого фильтра изображение улучшилось ---
+можно различить полосы на группе 7-3, на предыдущем ---~только на 7-2.
+
+\begin{figure}
+\centering
+\includegraphics[width=0.4\textwidth,height=\textheight]{../photo/4/23_optim.png}
+\caption{То же, что и ранее, но немного оптимизированы настройки}
+\end{figure}
+
+Первая серия исследует зависимость от диаметра апертуры объектива.
+
 \begin{figure}\centering\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/4/3.5mm.png}
-                               \caption{3.5mm}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/4/3mm.png}
-                               \caption{3mm}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/4/21.png}
-                               \caption{21}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/4/23.png}
-                               \caption{23}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/4/23_optim.png}
-                               \caption{23 optim}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/4/1.5mm.png}
-                               \caption{1.5mm}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
                                \includegraphics[width=\linewidth]{../photo/4/1mm.png}
                                \caption{1mm}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/4/2.5mm.png}
-                               \caption{2.5mm}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
+                               \end{subfigure}\hfill\begin{subfigure}{0.33\linewidth}
+                               \includegraphics[width=\linewidth]{../photo/4/1.5mm.png}
+                               \caption{1.5mm}
+                               \end{subfigure}\hfill\begin{subfigure}{0.33\linewidth}
                                \includegraphics[width=\linewidth]{../photo/4/2mm.png}
                                \caption{2mm}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/5/04_04/26_0.png}
-                               \caption{26 0}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/5/04_04/26_-1.png}
-                               \caption{26_-1}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/5/04_04/17.png}
-                               \caption{17}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/5/04_04/18.png}
-                               \caption{18}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/5/04_04/19.png}
-                               \caption{19}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/5/04_04/24.png}
-                               \caption{24}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/5/04_04/25_horizontsl.png}
-                               \caption{25_horizontsl}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/5/04_04/25-180.png}
-                               \caption{25-180}
-                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
-                               \includegraphics[width=\linewidth]{../photo/5/04_04/26_+1.png}
-                               \caption{26_+1}
-                               \end{subfigure}\caption{TODO}\end{figure}
+                               \end{subfigure}\hfill\begin{subfigure}{0.33\linewidth}
+                               \includegraphics[width=\linewidth]{../photo/4/2.5mm.png}
+                               \caption{2.5mm}
+                               \end{subfigure}\hfill\begin{subfigure}{0.33\linewidth}
+                               \includegraphics[width=\linewidth]{../photo/4/3mm.png}
+                               \caption{3mm}
+                               \end{subfigure}\hfill\begin{subfigure}{0.33\linewidth}
+                               \includegraphics[width=\linewidth]{../photo/4/3.5mm.png}
+                               \caption{3.5mm}
+                               \end{subfigure}\caption{Изображения при разных диаметрах объектива}\end{figure}
 
 \hypertarget{ux432ux44bux432ux43eux434ux44b-i}{%
 \subsection{Выводы I}\label{ux432ux44bux432ux43eux434ux44b-i}}
 
-По прошествии 4 лаб \sout{Кац предложил сдаться} мы смогли поработать с
-установкой, и подготовится к предстоящей, белее интересной, части
-работы. В процессе мы смогли разобраться с устройством части выданных
-приборов и получить количественные данные, которые можно будет
-использовать для сверки в предстоящих экспериментах.
+По прошествии 4 лаб мы смогли поработать с установкой, и подготовится к
+предстоящей, белее интересной, части работы. В процессе мы смогли
+разобраться с устройством части выданных приборов и получить
+количественные данные, которые можно будет использовать для сверки в
+предстоящих экспериментах.
 
 \hypertarget{ux43bux430ux431ux43eux440ux430ux442ux43eux440ux43dux430ux44f-5}{%
 \subsection{Лабораторная
@@ -1149,7 +1138,7 @@ Illumination)}\label{ux43fux440ux438ux43dux446ux438ux43f-ux440ux430ux431ux43eux4
 Микроскопия в темном поле --- это специализированный метод освещения, в
 котором используется наклонное освещение для повышения контраста в
 образцах, которые плохо визуализируются при нормальном освещении в
-светлом поле1. Микроскопия в темном поле --- это метод, в котором
+светлом поле. Микроскопия в темном поле --- это метод, в котором
 используется наклонное освещение для повышения контраста в образцах,
 которые плохо визуализируются при нормальных условиях освещения. Когда
 прозрачный образец помещают на предметный столик стеклянного микроскопа
@@ -1158,32 +1147,19 @@ Illumination)}\label{ux43fux440ux438ux43dux446ux438ux43f-ux440ux430ux431ux43eux4
 (такими как клеточная мембрана, ядро \hspace{0pt}\hspace{0pt}и
 внутренние органеллы). позволяя этим слабым лучам попасть в объектив.
 
-Наклонное освещение --- это метод, используемый для усиления контраста в
-неокрашенных образцах путем освещения их под углом. Система наклонного
-когерентного контрастного освещения сочетает в себе эффект наклонного
-освещения с усилением когерентности, достигаемым за счет уменьшения
-размера апертурной диафрагмы конденсора, и создает изображения в
-стереомикроскопе, которые имеют внешний вид, аналогичный
-дифференциально-интерференционным контрастным изображениям, создаваемым
-составным микроскопом. Прозрачные образцы, которые почти невидимы при
-просмотре в стереомикроскоп с использованием традиционных методов
-освещения в светлом поле, часто приобретают псевдотрехмерный вид с
-резким контрастом при просмотре в наклонном освещении.
-
-Таким образом, микроскопия темного поля представляет собой
-специализированный метод освещения, в котором используется наклонное
-освещение для повышения контраста в образцах, которые плохо
-визуализируются при нормальном освещении в светлом поле. Наклонное
-освещение --- это метод, используемый для усиления контраста в
-неокрашенных образцах путем освещения их под углом. Система наклонного
-когерентного контрастного освещения сочетает в себе эффект наклонного
-освещения с усилением когерентности, достигаемым за счет уменьшения
-размера апертурной диафрагмы конденсора, и создает изображения в
-стереомикроскопе, которые имеют внешний вид, похожий на
-дифференциально-интерференционно-контрастные изображения, создаваемые
-составным микроскопом. Прозрачные образцы часто принимают
-псевдотрехмерный вид с резким контрастом, если смотреть на них под
-наклонным освещением.
+Темное поле микроскопии исторически очень важно: до 1950-х годов это был
+единственный способ наблюдения прозрачных объектов, и даже сейчас это
+самый дешевый способ. Его полезность не может быть переоценена: клетки
+обычно прозрачны, и окрашивание их для того, чтобы сделать их видимыми,
+зачастую убивает их. Таким образом, тёмное поле и подобные техники
+(например, фазовый контраст и дифференциальный интерференционный
+контраст, DIC) предлагают способ наблюдать за клетками в то время как
+они живы и ведут себя нормально, что очевидно имеет научное значение. С
+точки зрения этого класса темное поле также представляет собой хороший
+способ изучения использования конъюгированных плоскостей для
+манипулирования контрастом изображения, рассмотрения разрешения более
+подробно и начала развития интуиции о том, как информация об изображении
+распределена в задней фокальной плоскости объектива.
 
 \begin{figure}\centering\begin{subfigure}{0.33\linewidth}
                                \includegraphics[width=\linewidth]{../photo/5/12.png}
@@ -1202,8 +1178,37 @@ Illumination)}\label{ux43fux440ux438ux43dux446ux438ux43f-ux440ux430ux431ux43eux4
 \begin{figure}
 \centering
 \includegraphics[width=0.5\textwidth,height=\textheight]{../photo/5/sudden_good.png}
-\caption{sudden\_good}
+\caption{sudden good}
 \end{figure}
+
+\begin{figure}\centering\begin{subfigure}{0.33\linewidth}
+                               \includegraphics[width=\linewidth]{../photo/5/04_04/26_0.png}
+                               \caption{26 0}
+                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
+                               \includegraphics[width=\linewidth]{../photo/5/04_04/26_-1.png}
+                               \caption{26 -1}
+                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
+                               \includegraphics[width=\linewidth]{../photo/5/04_04/17.png}
+                               \caption{17}
+                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
+                               \includegraphics[width=\linewidth]{../photo/5/04_04/18.png}
+                               \caption{18}
+                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
+                               \includegraphics[width=\linewidth]{../photo/5/04_04/19.png}
+                               \caption{19}
+                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
+                               \includegraphics[width=\linewidth]{../photo/5/04_04/24.png}
+                               \caption{24}
+                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
+                               \includegraphics[width=\linewidth]{../photo/5/04_04/25_horizontsl.png}
+                               \caption{25 horizontsl}
+                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
+                               \includegraphics[width=\linewidth]{../photo/5/04_04/25-180.png}
+                               \caption{25 180}
+                               \end{subfigure}\begin{subfigure}{0.33\linewidth}
+                               \includegraphics[width=\linewidth]{../photo/5/04_04/26_+1.png}
+                               \caption{26 +1}
+                               \end{subfigure}\end{figure}
 
 \hypertarget{ux43bux430ux431ux43eux440ux430ux442ux43eux440ux43dux430ux44f-6}{%
 \subsection{Лабораторная
@@ -1859,7 +1864,7 @@ plane) на камере. Чтобы по-прежнему уметь ориен
                                \caption{160 lp}
                                \end{subfigure}\begin{subfigure}{0.33\linewidth}
                                \includegraphics[width=\linewidth]{../photo/10/190_lp.png}
-                               \caption{190_lp}
+                               \caption{190 lp}
                                \end{subfigure}\caption{Первая серия}\end{figure}
 
 \begin{figure}\centering\begin{subfigure}{0.33\linewidth}
@@ -1882,7 +1887,7 @@ plane) на камере. Чтобы по-прежнему уметь ориен
                                \caption{160 lp 2}
                                \end{subfigure}\begin{subfigure}{0.33\linewidth}
                                \includegraphics[width=\linewidth]{../photo/10/190_lp_2.png}
-                               \caption{190_lp_2}
+                               \caption{190 lp 2}
                                \end{subfigure}\caption{Вторая серия}\end{figure}
 
 Для того, чтобы извлечь освещенность максимумов и минимумов,
@@ -1952,13 +1957,13 @@ plane) на камере. Чтобы по-прежнему уметь ориен
                                \caption{Край}
                                \end{subfigure}\begin{subfigure}{0.33\linewidth}
                                \includegraphics[width=\linewidth]{../photo/10/26_50m.png}
-                               \caption{Край, +50μm}
+                               \caption{Край, +50 микрометров}
                                \end{subfigure}\begin{subfigure}{0.33\linewidth}
                                \includegraphics[width=\linewidth]{../photo/10/26_100m.png}
-                               \caption{Край, +100μm}
+                               \caption{Край, +100 микрометров}
                                \end{subfigure}\begin{subfigure}{0.33\linewidth}
                                \includegraphics[width=\linewidth]{../photo/10/26_150m.png}
-                               \caption{Край, +150μm}
+                               \caption{Край, +150 микрометров}
                                \end{subfigure}\end{figure}
 
 Зная, что образец на самом деле ---~близкий к идеальному черный край,
