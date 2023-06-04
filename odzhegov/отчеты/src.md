@@ -442,7 +442,7 @@ $$
 Темное поле микроскопии исторически очень важно: до 1950-х годов это был единственный способ наблюдения прозрачных объектов, и даже сейчас это самый дешевый способ. Его полезность не может быть переоценена: клетки обычно прозрачны, и окрашивание их для того, чтобы сделать их видимыми, зачастую убивает их. Таким образом, тёмное поле и подобные техники (например, фазовый контраст и дифференциальный интерференционный контраст, DIC) предлагают способ наблюдать за клетками в то время как они живы и ведут себя нормально, что очевидно имеет научное значение. С точки зрения этого класса темное поле также представляет собой хороший способ изучения использования конъюгированных плоскостей для манипулирования контрастом изображения, рассмотрения разрешения более подробно и начала развития интуиции о том, как информация об изображении распределена в задней фокальной плоскости объектива. 
 
 !SUBFIGURES:
-![Без понятия, что это такое](){width:0.5}
+![TODO](){width:0.45}
 ![12](../photo/5/12.png)
 ![17](../photo/5/17.png)
 ![18](../photo/5/18.png)
@@ -452,6 +452,7 @@ $$
 
 
 !SUBFIGURES:
+![TODO](){width:0.45}
 ![26 0](../photo/5/04_04/26_0.png)
 ![26 -1](../photo/5/04_04/26_-1.png)
 ![17](../photo/5/04_04/17.png)
@@ -566,55 +567,56 @@ $$
 
 ## Лабораторная №9
 
+TODO
 
-![new](../photo/9/new.png)
+![new](../photo/9/new.png){width=50%}
 
-![red_1](../photo/9/red_1.png)
+![red_1](../photo/9/red_1.png){width=50%}
 
-![red_2](../photo/9/red_2.png)
+![red_2](../photo/9/red_2.png){width=50%}
 
-![green_moss_1_sample](../photo/9/green_moss_1_sample.png)
+![green_moss_1_sample](../photo/9/green_moss_1_sample.png){width=50%}
 
-![green_moss_2_sample](../photo/9/green_moss_2_sample.png)
+![green_moss_2_sample](../photo/9/green_moss_2_sample.png){width=50%}
 
-![green_moss_1](../photo/9/green_moss_1.png)
+![green_moss_1](../photo/9/green_moss_1.png){width=50%}
 
-![green_moss_2](../photo/9/green_moss_2.png)
-
-
-![200and100_bfp](../photo/9/200and100_bfp.png)
-
-![200and100sample_with_7.5](../photo/9/200and100sample_with_7.5.png)
-
-![200and100_bfp_without_200](../photo/9/200and100_bfp_without_200.png)
-
-![200and100sample_without_200](../photo/9/200and100sample_without_200.png)
-
-![200and100_bfp_without_all](../photo/9/200and100_bfp_without_all.png)
-
-![200and100sample_without_all](../photo/9/200and100sample_without_all.png)
+![green_moss_2](../photo/9/green_moss_2.png){width=50%}
 
 
-![v_for_100_sample](../photo/9/v_for_100_sample.png)
+![200and100_bfp](../photo/9/200and100_bfp.png){width=50%}
 
-![v_for_100_bfp](../photo/9/v_for_100_bfp.png)
+![200and100sample_with_7.5](../photo/9/200and100sample_with_7.5.png){width=50%}
 
-![h_for_100_sample](../photo/9/h_for_100_sample.png)
+![200and100_bfp_without_200](../photo/9/200and100_bfp_without_200.png){width=50%}
 
-![h_for_100_bfp](../photo/9/h_for_100_bfp.png)
+![200and100sample_without_200](../photo/9/200and100sample_without_200.png){width=50%}
+
+![200and100_bfp_without_all](../photo/9/200and100_bfp_without_all.png){width=50%}
+
+![200and100sample_without_all](../photo/9/200and100sample_without_all.png){width=50%}
 
 
-![both_h_and_v_for_100_sample](../photo/9/both_h_and_v_for_100_sample.png)
+![v_for_100_sample](../photo/9/v_for_100_sample.png){width=50%}
 
-![both_h_and_v_for_100_bfp](../photo/9/both_h_and_v_for_100_bfp.png)
+![v_for_100_bfp](../photo/9/v_for_100_bfp.png){width=50%}
 
-![blocked_diagonal_bfp](../photo/9/blocked_diagonal_bfp.png)
+![h_for_100_sample](../photo/9/h_for_100_sample.png){width=50%}
 
-![blocked_diagonal](../photo/9/blocked_diagonal.png)
+![h_for_100_bfp](../photo/9/h_for_100_bfp.png){width=50%}
 
-![blocked_horizontal](../photo/9/blocked_horizontal.png)
 
-![blocked_vertical](../photo/9/blocked_vertical.png)
+![both_h_and_v_for_100_sample](../photo/9/both_h_and_v_for_100_sample.png){width=50%}
+
+![both_h_and_v_for_100_bfp](../photo/9/both_h_and_v_for_100_bfp.png){width=50%}
+
+![blocked_diagonal_bfp](../photo/9/blocked_diagonal_bfp.png){width=50%}
+
+![blocked_diagonal](../photo/9/blocked_diagonal.png){width=50%}
+
+![blocked_horizontal](../photo/9/blocked_horizontal.png){width=50%}
+
+![blocked_vertical](../photo/9/blocked_vertical.png){width=50%}
 
 ## Лабораторная №10
 
